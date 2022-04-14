@@ -1,0 +1,9 @@
+Flask~=2.0.3
+pymongo~=4.0.2
+marshmallow~=3.15.0
+flask-request-validator==4.2.0
+pytest==6.2.5
+pytest-docker==0.10.3
+pytest-flask==1.2.0
+flake8==4.0.1
+pyflakes==2.4.0
